@@ -9,6 +9,6 @@ public class Demo {
 	
 	public void m1()
 	{
-		Helllllllllllllllllo
+		System.out.println("Hello   M1");
 	}
 }
