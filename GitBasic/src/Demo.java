@@ -11,4 +11,10 @@ public class Demo {
 	{
 		System.out.println("Hello   M1");
 	}
+
+public void m2()
+	{
+		System.out.println("Hello   M2");
+	}
+
 }
