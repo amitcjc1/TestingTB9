@@ -6,4 +6,9 @@ public class Demo {
 		
 		System.out.println("Demo");
 	}
+	
+	public void m1()
+	{
+		Helllllllllllllllllo
+	}
 }
