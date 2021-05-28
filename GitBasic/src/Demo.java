@@ -17,4 +17,10 @@ public void m2()
 		System.out.println("Hello   M2");
 	}
 
+	
+public void m3()
+	{
+		System.out.println("Hello   M3");
+	}
+
 }
